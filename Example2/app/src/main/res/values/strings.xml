@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Example2</string>
+    <string name="ke_busca">KE BUSCA</string>
+    <string name="back">Back</string>
+    <string name="ola">Ola</string>
+    <string name="adios">Adios</string>
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
 </resources>
