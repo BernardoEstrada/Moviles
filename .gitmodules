@@ -1,0 +1,3 @@
+[submodule "SensorsHW"]
+	path = SensorsHW
+	url = git@github.com:BernardoEstrada/SensorsHW.git
